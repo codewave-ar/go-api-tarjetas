@@ -1,3 +1,3 @@
-module github.com/orgs/codewave-ar/go-api-tarjetas
+module app-go
 
 go 1.19
